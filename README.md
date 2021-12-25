@@ -1,4 +1,4 @@
-CSD_toolbox: A toolbox to solve Dynamic Stochastic General Equilibrium models using perturbation methods with Matlab. The toolbox is completely based on the CoRRAM-M toolkit (2018 version) developed by Professor Alfred Maussner. CSD is an acronym for Corram Simplified Design, and is written by Sijmen Duineveld. The toolbox also integrated the code written by Dana Galizia to solve limit cycle models.
+CSD_toolbox: A toolbox to solve Dynamic Stochastic General Equilibrium models using perturbation methods with Matlab. The toolbox is completely based on the CoRRAM-M toolkit (2018 version) developed by Professor Alfred Maussner. CSD is an acronym for Corram Simplified Design, and is written by Sijmen Duineveld. The toolbox can also solve limit cycle models, using the code written by Dana Galizia.
 
 For more details see the manual of CSD_v02.4.0, which is the latest release: https://github.com/saduineveld/CSD_toolbox/releases/download/v02.4.0.a/MANUAL_CSD_v02.4.0.pdf
 
