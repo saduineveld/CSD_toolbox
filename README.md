@@ -8,5 +8,5 @@ The most recent version of the toolbox is also available at www.saduineveld.com/
 
 ## Installation of CSD_v02.4.0
 1. Go to the latest release at https://github.com/saduineveld/CSD_toolbox/releases. Download the zip file. Currently the latest version is https://github.com/saduineveld/CSD_toolbox/releases/download/v02.4.0/CSD_v02.4.0.a.zip;
-2. Unpack the zip file in the destination folder. This will add the folder ‘CSD_v02.4.0’ to the destination folder;
-3. To use the CSD toolbox in Matlab the folder ‘CSD_v02.4.0’ and the subfolder ‘subfun’ need to be on the searchpath. You can run examples from the folder CSD_v02.4.0/Examples.
+2. Unpack the zip file in the destination folder. This will add the folder 'CSD_v02.4.0' to the destination folder;
+3. To use the CSD toolbox in Matlab the folder 'CSD_v02.4.0' and the subfolder 'subfun' need to be on the searchpath. You can run examples from the folder CSD_v02.4.0/Examples.
